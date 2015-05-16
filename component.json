@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/swfobject/swfobject.git",
+    "version": "v2.3.0",
+    "name": "swfobject",
+    "main": "swfobject.js"
+}
