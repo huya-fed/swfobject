@@ -817,7 +817,7 @@ var swfobject = function () {
     };
 }();
 
-if ( typeof dw.define === 'function') {
+if ( typeof dwfis.define === 'function') {
     module.exports = swfobject;
 } else {
     window.swfobject
