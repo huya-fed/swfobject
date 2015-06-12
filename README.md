@@ -51,8 +51,10 @@
 
 
 ##使用演示
-
 	
+	var swfobject = require('swfobject');
+		
+
 	swfobject.embedSWF("test6_flashvars.swf", "content5", "300", "120", "10.0.0", "expressInstall.swf", {name1:"hello",name2:"world",name3:"foobar"}, {menu:"false"}, {id:"dynamicContent5",name:"dynamicContent5"});
 
 
