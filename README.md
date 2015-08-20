@@ -2,6 +2,7 @@
 
 一个异步加载flash的插件
 
+http://code.ciaoca.com/javascript/swfobject/
 
 ##参数说明
 
